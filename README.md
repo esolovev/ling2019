@@ -15,6 +15,8 @@
 
 Чат в телеграме: to be announced
 
+Табличка с оценками: to be announced
+
 Анонимная форма для предложений по курсу: https://forms.gle/3U41kVkHgYp9QHEo9
 
 ## План занятий
