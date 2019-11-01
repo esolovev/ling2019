@@ -13,7 +13,7 @@
 * Эдуард Григорьев (телеграм @ldsad, почта happypuffin7@gmail.com)
 
 
-Чат в телеграме: to be announced
+Чат в телеграме: https://t.me/joinchat/ABOMZhQUvOBwFhu1GRTK8g
 
 Табличка с оценками: to be announced
 
