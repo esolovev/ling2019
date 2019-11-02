@@ -13,7 +13,9 @@
 * Эдуард Григорьев (телеграм @ldsad, почта happypuffin7@gmail.com)
 
 
-Чат в телеграме: to be announced
+Чат в телеграме: https://t.me/joinchat/ABOMZhQUvOBwFhu1GRTK8g
+
+Табличка с оценками: to be announced
 
 Анонимная форма для предложений по курсу: https://forms.gle/3U41kVkHgYp9QHEo9
 
