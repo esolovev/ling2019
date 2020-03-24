@@ -80,6 +80,7 @@
 | 1     | Функции, встроенные типы данных, collections, парсинг html | 15.12.2019 | [hw1](https://github.com/esolovev/ling2019/blob/master/module1/hw1.ipynb) |
 | 2     | ООП                                                        | 30.12.2019 | [hw2](https://github.com/esolovev/ling2019/blob/master/module1/hw2.ipynb) |
 | 3     | Тестирование                                               | 12.03.2020 | [hw3](https://github.com/esolovev/ling2019/blob/master/module2/hw3.ipynb) |
+| 4     | Линейная регрессия, градиентный спуск                      | 06.04.2020 | [hw4](https://github.com/esolovev/ling2019/blob/master/module2/hw4.ipynb) |
 
 
 ## Оценивание
