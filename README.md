@@ -81,7 +81,8 @@
 | 2     | ООП                                                        | 30.12.2019 | [hw2](https://github.com/esolovev/ling2019/blob/master/module1/hw2.ipynb) |
 | 3     | Тестирование                                               | 12.03.2020 | [hw3](https://github.com/esolovev/ling2019/blob/master/module2/hw3.ipynb) |
 | 4     | Линейная регрессия, градиентный спуск                      | 06.04.2020 | [hw4](https://github.com/esolovev/ling2019/blob/master/module2/hw4.ipynb) |
-
+| 5     | Flask, SQL, scikit-learn                      | 05.05.2020 | [hw5](https://github.com/esolovev/ling2019/blob/master/module2/HW5.ipynb) |
+| 6     | Паралелльное программирование, click                      | 01.06.2020 | [hw6](https://github.com/esolovev/ling2019/blob/master/module2/HW6.ipynb) |
 
 ## Оценивание
 
